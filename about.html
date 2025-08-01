@@ -1,30 +1,56 @@
+<!-- Version optimisée du fichier about.html -->
 <!DOCTYPE html>
 <html lang="fr">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>À propos – Alex Chesnay</title>
-  <meta name="description" content="À propos d’Alex Chesnay, réalisateur 3D spécialisé en animation, VFX et expériences immersives.">
+  <meta name="description" content="Découvrez le parcours d’Alex Chesnay, réalisateur 3D basé à Paris : animation, VFX, narration visuelle et expériences immersives.">
+  <meta property="og:title" content="À propos – Alex Chesnay">
+  <meta property="og:description" content="Découvrez le parcours d’Alex Chesnay, réalisateur 3D basé à Paris : animation, VFX, narration visuelle et expériences immersives.">
+  <meta property="og:site_name" content="Alex Chesnay Portfolio">
+  <link rel="stylesheet" href="./assets/css/main.css">
 </head>
 <body>
+  <a href="#main" class="sr-only sr-only-focusable">Aller au contenu principal</a>
   <header>
-    <nav>
-      <a href="./index.html"><img src="./assets/logo/alex-chesnay-logo.svg" alt="Alex Chesnay logo" style="height:60px"></a>
-      <!-- Simple navigation links -->
-      <ul style="list-style:none; display:flex; gap:1rem;">
+    <nav aria-label="Menu principal">
+      <a href="./index.html">
+        <img src="./assets/logo/alex-chesnay-logo.svg" alt="Logo Alex Chesnay" style="height:60px">
+      </a>
+      <ul class="nav-links">
         <li><a href="./index.html">Accueil</a></li>
-        <li><a href="./about.html">À propos</a></li>
+        <li><a href="./about.html" aria-current="page">À propos</a></li>
         <li><a href="./contact.html">Contact</a></li>
       </ul>
     </nav>
   </header>
-  <main>
+
+  <main id="main">
     <h1>À propos d’Alex Chesnay</h1>
-    <p>Alex Chesnay est un réalisateur 3D spécialisé en animation, VFX et expériences immersives basé à Paris, France. Passionné par l’image et les technologies créatives, il crée des univers immersifs et des histoires captivantes pour les marques et les institutions.</p>
+    <p>Alex Chesnay est un <strong>réalisateur 3D</strong> spécialisé en <strong>animation, effets visuels (VFX)</strong> et <strong>expériences immersives</strong>. Basé à Paris, il façonne des univers narratifs uniques mêlant <em>création visuelle</em>, <em>technologies de pointe</em> et <em>émotion</em>.</p>
+
+    <section aria-labelledby="skills">
+      <h2 id="skills">Domaines de compétences</h2>
+      <ul>
+        <li>Modélisation et animation 3D</li>
+        <li>Effets spéciaux (VFX)</li>
+        <li>Expériences interactives AR/VR</li>
+        <li>Mise en scène et narration visuelle</li>
+        <li>Motion design et direction artistique</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="tools">
+      <h2 id="tools">Outils maîtrisés</h2>
+      <p>Blender, Maya, Substance Painter, Unity, Unreal Engine, After Effects, Photoshop, Premiere Pro.</p>
+    </section>
   </main>
+
   <footer>
-    <p>&copy; 2025 Alex Chesnay</p>
+    <p>&copy; 2025 Alex Chesnay – Tous droits réservés.</p>
   </footer>
-  <script src="./assets/js/custom.js"></script>
+
+  <script src="./assets/js/custom.js" defer></script>
 </body>
 </html>
