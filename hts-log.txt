@@ -1,0 +1,256 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 01 Aug 2025 21:44:20 at https://neighboranimation.com/# +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://neighboranimation.com/# -O1 "C:\Users\Administrateur\Downloads\SiteWeb\Alex Chesnay" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:44:21	Warning: 	Note: due to https://neighboranimation.com remote robots.txt rules, links beginning with these path will be forbidden: /wp-admin/ (see in the options to disable this)
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4758
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4758 to https://neighboranimation.com/work/team-m8tes/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/the-internet-you-always-wanted/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/the-internet-you-always-wanted/ to https://neighboranimation.com/work/cox-communications-the-internet-you-always-wanted/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/points-for-prizes/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/points-for-prizes/ to https://neighboranimation.com/work/kentucky-lottery-points-for-prizes/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/moments/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/moments/ to https://neighboranimation.com/work/cummins/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/everything-takes-off-from-here/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/everything-takes-off-from-here/ to https://neighboranimation.com/work/cleveland-hopkins-international-airport/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/if-molecules-were-people/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/if-molecules-were-people/ to https://neighboranimation.com/work/ted-ed-if-molecules-were-people/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/work/oh-bot/
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/work/oh-bot/ to https://neighboranimation.com/work/ohio-lottery-oh-bot/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4717
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4717 to https://neighboranimation.com/work/clif-kid-launch/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4649
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4649 to https://neighboranimation.com/work/ohio-lottery-holiday-magic/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4714
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4714 to https://neighboranimation.com/work/countrymark-pdx-4/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4709
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4709 to https://neighboranimation.com/work/village-naturals-collection/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4676
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4676 to https://neighboranimation.com/work/lutefish-mascot/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4660
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4660 to https://neighboranimation.com/work/future-built-campaign/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4656
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4656 to https://neighboranimation.com/work/mr-bubble-3-in-1/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4637
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4637 to https://neighboranimation.com/work/ohio-lottery-cash-explosion/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=4402
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=4402 to https://neighboranimation.com/work/mr-bubble/
+21:48:00	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3236
+21:48:00	Warning: 	File has moved from https://neighboranimation.com/?p=3236 to https://neighboranimation.com/work/target-optical-vr/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3223
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3223 to https://neighboranimation.com/work/fmc-precision-pac-vr/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3219
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3219 to https://neighboranimation.com/work/honour-cafe-vr/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3214
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3214 to https://neighboranimation.com/work/target-disney-store-vr/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3046
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3046 to https://neighboranimation.com/work/holiday-bear/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3044
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3044 to https://neighboranimation.com/work/thanksgiving/
+21:48:01	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3239
+21:48:01	Warning: 	File has moved from https://neighboranimation.com/?p=3239 to https://neighboranimation.com/work/hoover-institution/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3040
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3040 to https://neighboranimation.com/work/boehringer-ingelheim-cattle-first/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3038
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3038 to https://neighboranimation.com/work/ohio-lottery-powerball/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3036
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3036 to https://neighboranimation.com/work/national-bank-community/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3029
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3029 to https://neighboranimation.com/work/national-bank-spark-campaign/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3027
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3027 to https://neighboranimation.com/work/kentucky-lottery-cheetah/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3023
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3023 to https://neighboranimation.com/work/the-home-depot/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3015
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3015 to https://neighboranimation.com/work/fmc-scion/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1091
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=1091 to https://neighboranimation.com/work/orchard-supply-hardware/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3011
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3011 to https://neighboranimation.com/work/delta-dental/
+21:48:06	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3009
+21:48:06	Warning: 	File has moved from https://neighboranimation.com/?p=3009 to https://neighboranimation.com/work/fmc-3rive-3d/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=3048
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=3048 to https://neighboranimation.com/work/yamaha/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=2873
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=2873 to https://neighboranimation.com/work/fmc-precision-pac/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=2075
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=2075 to https://neighboranimation.com/work/boehringer-ingelheim-trichguard/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/07/FINANCIAL_ENGINES_WIDE_1000x500 (00001 (from https://neighboranimation.com/work/boehringer-ingelheim-trichguard/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1987
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1987 to https://neighboranimation.com/work/financial-engines/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/android-tablet-loop/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/android-tablet-loop/ to https://neighboranimation.com/work/best-buy-android-tablet-loop/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/small-part-of-your-huge/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/small-part-of-your-huge/ to https://neighboranimation.com/work/microgigantic/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/better-choices-with-zeo/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/better-choices-with-zeo/ to https://neighboranimation.com/work/tcf-bank/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/momentum/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/momentum/ to https://neighboranimation.com/work/post-it-notes/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/seriously-smart/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/seriously-smart/ to https://neighboranimation.com/work/basf-seriously-smart/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/flu-shot/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/flu-shot/ to https://neighboranimation.com/work/target-flu-shot/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/drive-smarter-drive-faster/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/drive-smarter-drive-faster/ to https://neighboranimation.com/work/garmin-for-best-buy-drive-smarter-arrive-faster/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/the-new-energy-grid/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/the-new-energy-grid/ to https://neighboranimation.com/work/xcel-energy/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=47
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=47 to https://neighboranimation.com/work/cummins/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/OH_THRILL_2_WIDE_1000x500 (00153 (from https://neighboranimation.com/work/cummins/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=66
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=66 to https://neighboranimation.com/work/ohio-lottery-oh-bot/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=2191
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=2191 to https://neighboranimation.com/work/basf-apple-corps/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/EVERYTHING_TAKES_OFF_WIDE_1000x500 (00135 (from https://neighboranimation.com/work/basf-apple-corps/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1089
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1089 to https://neighboranimation.com/work/cleveland-hopkins-international-airport/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/BLUE_ZONES_WIDE_1000x500 (00293 (from https://neighboranimation.com/work/cleveland-hopkins-international-airport/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1072
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1072 to https://neighboranimation.com/work/wellmark/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/should-we-eat-bugs/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/should-we-eat-bugs/ to https://neighboranimation.com/work/ted-ed-should-we-eat-bugs/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/atlantic-slave-trade/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/atlantic-slave-trade/ to https://neighboranimation.com/work/ted-ed-atlantic-slave-trade/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/the-smartestgift/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/the-smartestgift/ to https://neighboranimation.com/work/bissell/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/its-the-weekend/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/its-the-weekend/ to https://neighboranimation.com/work/bleacher-report-its-the-weekend/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/triolet-for-laika/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/triolet-for-laika/ to https://neighboranimation.com/work/motionpoems-triolet-for-laika/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/lets-all-go-to-the-arena/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/lets-all-go-to-the-arena/ to https://neighboranimation.com/work/bleacher-report-lets-all-go-to-the-arena/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1630
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1630 to https://neighboranimation.com/work/target-superbowl/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/INTERNET_WIDE_1000x500 (00217 (from https://neighboranimation.com/work/target-superbowl/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1099
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1099 to https://neighboranimation.com/work/cox-communications-the-internet-you-always-wanted/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1093
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1093 to https://neighboranimation.com/work/kentucky-lottery-dreamin/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/5-card-cash/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/5-card-cash/ to https://neighboranimation.com/work/kentucky-lottery-5-card-cash/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/home-hardware-and-happiness/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/home-hardware-and-happiness/ to https://neighboranimation.com/work/orchard-supply-hardware/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/grow-with-conservis/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/grow-with-conservis/ to https://neighboranimation.com/work/conservis/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/gig/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/gig/ to https://neighboranimation.com/work/cox-communications-gigablast-in-store/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/studio-luma/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/studio-luma/ to https://neighboranimation.com/work/cambio-education/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/handome-cycles-in-store/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/handome-cycles-in-store/ to https://neighboranimation.com/work/handsome-cycles/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/starkey-hearing-innovation-expo/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/starkey-hearing-innovation-expo/ to https://neighboranimation.com/work/starkey/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/TARGET_WIDE_1000x500 (00019 (from https://neighboranimation.com/work/kentucky-lottery-dreamin/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1097
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1097 to https://neighboranimation.com/work/target-holiday-in-store/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/DREAMIN_WIDE_1000x500 (00001 (from https://neighboranimation.com/work/target-holiday-in-store/)
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/CONSERVIS_WIDE_1000x500 (00930 (from https://neighboranimation.com/work/target-holiday-in-store/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1492
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1492 to https://neighboranimation.com/work/best-buy-android-tablet-loop/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/every-batch-is-a-mystery/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/every-batch-is-a-mystery/ to https://neighboranimation.com/work/minnesota-department-of-human-services/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/blue-zones/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/blue-zones/ to https://neighboranimation.com/work/wellmark/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/07/TROLLI_TRADE_WIDE_1000x500 (00090 (from https://neighboranimation.com/work/best-buy-android-tablet-loop/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1504
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1504 to https://neighboranimation.com/work/trolli/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1087
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1087 to https://neighboranimation.com/work/minnesota-department-of-human-services/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/05/WIDE_1000x500 (00458 (from https://neighboranimation.com/work/minnesota-department-of-human-services/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=52
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=52 to https://neighboranimation.com/work/kentucky-lottery-5-card-cash/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/dreamin/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/dreamin/ to https://neighboranimation.com/work/kentucky-lottery-dreamin/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/07/KEY_WIDE_1000x500 (00001 (from https://neighboranimation.com/work/kentucky-lottery-5-card-cash/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=39
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=39 to https://neighboranimation.com/work/key-bank/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/POSTIT_WIDE_1000x500 (01006 (from https://neighboranimation.com/work/key-bank/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1085
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1085 to https://neighboranimation.com/work/post-it-notes/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/WEEKEND_WIDE_1000x500 (00137 (from https://neighboranimation.com/work/post-it-notes/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=24
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=24 to https://neighboranimation.com/work/bleacher-report-its-the-weekend/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/work/year-of-the-horse/ (from https://neighboranimation.com/work/bleacher-report-its-the-weekend/)
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/BUGS_WIDE_1000x500 (00572 (from https://neighboranimation.com/work/bleacher-report-its-the-weekend/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1078
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1078 to https://neighboranimation.com/work/ted-ed-should-we-eat-bugs/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1488
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1488 to https://neighboranimation.com/work/target-national-fall-meeting/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/STUDIO_LUMA_WIDE_1000x500 (00365 (from https://neighboranimation.com/work/target-national-fall-meeting/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1604
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1604 to https://neighboranimation.com/work/ferrara/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/HARV_EXTRA_WIDE_1000x500 (00646 (from https://neighboranimation.com/work/ferrara/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=63
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=63 to https://neighboranimation.com/work/harvxtra/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/FERRARA_WIDE_1000x500 (01025 (from https://neighboranimation.com/work/harvxtra/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1074
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1074 to https://neighboranimation.com/work/xcel-energy/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/ZEO_WIDE_1000x500 (00414 (from https://neighboranimation.com/work/xcel-energy/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1070
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1070 to https://neighboranimation.com/work/tcf-bank/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/SERIOUSLY_SMART_WIDE_1000x500 (00050 (from https://neighboranimation.com/work/tcf-bank/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=16
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=16 to https://neighboranimation.com/work/basf-seriously-smart/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/THE_SMARTESTGIFT_WIDE_1000x500 (00223 (from https://neighboranimation.com/work/basf-seriously-smart/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1080
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1080 to https://neighboranimation.com/work/bissell/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/MOLECULES_WIDE_1000x500 (00001 (from https://neighboranimation.com/work/bissell/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1103
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1103 to https://neighboranimation.com/work/ted-ed-if-molecules-were-people/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/COLOR_CURRENTS_WIDE_1000x500 (00653 (from https://neighboranimation.com/work/ted-ed-if-molecules-were-people/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1621
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1621 to https://neighboranimation.com/work/behr/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/levis-revel-in-store/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/levis-revel-in-store/ to https://neighboranimation.com/work/levis-revel/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/SLAVE_WIDE_1000x500 (00322 (from https://neighboranimation.com/work/behr/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1613
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1613 to https://neighboranimation.com/work/ted-ed-atlantic-slave-trade/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/GALAXY_OF_ME_WIDE_1000x500 (00378 (from https://neighboranimation.com/work/ted-ed-atlantic-slave-trade/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1611
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1611 to https://neighboranimation.com/work/galaxy-of-me/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/ROOMS_TO_GO_WIDE_1000x500 (00333 (from https://neighboranimation.com/work/galaxy-of-me/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1608
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1608 to https://neighboranimation.com/work/rooms-to-go/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/work/color-currents/
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/work/color-currents/ to https://neighboranimation.com/work/behr/
+21:48:07	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.9/FLU_WIDE_1000x500 (00068 (from https://neighboranimation.com/work/rooms-to-go/)
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1596
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1596 to https://neighboranimation.com/work/target-flu-shot/
+21:48:07	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1594
+21:48:07	Warning: 	File has moved from https://neighboranimation.com/?p=1594 to https://neighboranimation.com/work/levis-revel/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/07/HANDSOME_WIDE_1000x500 (00228 (from https://neighboranimation.com/work/levis-revel/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1501
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1501 to https://neighboranimation.com/work/handsome-cycles/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/07/WIDE_1000x500 (00177 (from https://neighboranimation.com/work/handsome-cycles/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1498
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1498 to https://neighboranimation.com/work/kentucky-lottery-points-for-prizes/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/DRIVE_SMARTER_WIDE_1000x500 (00120 (from https://neighboranimation.com/work/kentucky-lottery-points-for-prizes/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1082
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1082 to https://neighboranimation.com/work/garmin-for-best-buy-drive-smarter-arrive-faster/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/SMALL_PART_OF_YOUR_WIDE_1000x500 (00769 (from https://neighboranimation.com/work/garmin-for-best-buy-drive-smarter-arrive-faster/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1105
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1105 to https://neighboranimation.com/work/microgigantic/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06.5/GIG_WIDE_1000x500 (00748 (from https://neighboranimation.com/work/microgigantic/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=21
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=21 to https://neighboranimation.com/work/cox-communications-gigablast-in-store/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/LAIKA_WIDE_1000x500 (02058 (from https://neighboranimation.com/work/cox-communications-gigablast-in-store/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1076
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1076 to https://neighboranimation.com/work/motionpoems-triolet-for-laika/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/wp-content/uploads/2018/06/LETSALLGO_WIDE_1000x500 (00001 (from https://neighboranimation.com/work/motionpoems-triolet-for-laika/)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1095
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1095 to https://neighboranimation.com/work/bleacher-report-lets-all-go-to-the-arena/
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/location (from https://neighboranimation.com/wp-content/cache/minify/8f3f6.js)
+21:48:08	Error: 	"Not Found" (404) at link https://neighboranimation.com/Edge/ (from https://neighboranimation.com/wp-content/cache/minify/8f3f6.js)
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=273
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=273 to https://neighboranimation.com/work/starkey/
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1606
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1606 to https://neighboranimation.com/work/cambio-education/
+21:48:08	Warning: 	Moved Permanently for https://neighboranimation.com/?p=1101
+21:48:08	Warning: 	File has moved from https://neighboranimation.com/?p=1101 to https://neighboranimation.com/work/conservis/
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 minutes 48 seconds : 900 links scanned, 758 files written (150892154 bytes overall) [144033597 bytes received at 631726 bytes/sec], 13337385 bytes transferred using HTTP compression in 261 files, ratio 23%, 19.6 requests per connection
+(36 errors, 209 warnings, 0 messages)
